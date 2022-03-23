@@ -1,0 +1,96 @@
+
+/* ----------------------Euclid Circular A------------------------ */
+@font-face {
+	font-family: 'Euclid Circular A';
+	src: url('../fonts/Euclid Circular A Light/EuclidCircularA-Light.eot');
+	src: local('Euclid Circular A Light'), local('../fonts/Euclid Circular A Light/EuclidCircularA-Light'),
+		url('../fonts/Euclid Circular A Light/EuclidCircularA-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Euclid Circular A Light/EuclidCircularA-Light.woff2') format('woff2'),
+		url('../fonts/Euclid Circular A Light/EuclidCircularA-Light.woff') format('woff'),
+		url('../fonts/Euclid Circular A Light/EuclidCircularA-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Circular A';
+	src: url('../fonts/Euclid Circular A SemiBold/EuclidCircularA-SemiBold.eot');
+	src: local('Euclid Circular A SemiBold'), local('../fonts/Euclid Circular A SemiBold/EuclidCircularA-SemiBold'),
+		url('../fonts/Euclid Circular A SemiBold/EuclidCircularA-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Euclid Circular A SemiBold/EuclidCircularA-SemiBold.woff2') format('woff2'),
+		url('../fonts/Euclid Circular A SemiBold/EuclidCircularA-SemiBold.woff') format('woff'),
+		url('../fonts/Euclid Circular A SemiBold/EuclidCircularA-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+/* ----------------------Euclid Circular B------------------------ */
+@font-face {
+	font-family: 'Euclid Circular B';
+	src: url('../fonts/Euclid Circular B Light/EuclidCircularB-Light.eot');
+	src: local('Euclid Circular B Light'), local('../fonts/Euclid Circular B Light/EuclidCircularB-Light'),
+		url('../fonts/Euclid Circular B Light/EuclidCircularB-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Euclid Circular B Light/EuclidCircularB-Light.woff2') format('woff2'),
+		url('../fonts/Euclid Circular B Light/EuclidCircularB-Light.woff') format('woff'),
+		url('../fonts/Euclid Circular B Light/EuclidCircularB-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	src: url('../fonts/Euclid Circular B Medium/EuclidCircularB-Medium.eot');
+	src: local('Euclid Circular B Medium'), local('../fonts/Euclid Circular B Medium/EuclidCircularB-Medium'),
+		url('../fonts/Euclid Circular B Medium/EuclidCircularB-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Euclid Circular B Medium/EuclidCircularB-Medium.woff2') format('woff2'),
+		url('../fonts/Euclid Circular B Medium/EuclidCircularB-Medium.woff') format('woff'),
+		url('../fonts/Euclid Circular B Medium/EuclidCircularB-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	src: url('../fonts/Euclid Circular B Regular/EuclidCircularB-Regular.eot');
+	src: local('Euclid Circular B Regular'), local('../fonts/Euclid Circular B Regular/EuclidCircularB-Regular'),
+		url('../fonts/Euclid Circular B Regular/EuclidCircularB-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Euclid Circular B Regular/EuclidCircularB-Regular.woff2') format('woff2'),
+		url('../fonts/Euclid Circular B Regular/EuclidCircularB-Regular.woff') format('woff'),
+		url('../fonts/Euclid Circular B Regular/EuclidCircularB-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	src: url('../fonts/Euclid Circular B SemiBold/EuclidCircularB-SemiBold.eot');
+	src: local('Euclid Circular B SemiBold'), local('../fonts/Euclid Circular B SemiBold/EuclidCircularB-SemiBold'),
+		url('../fonts/Euclid Circular B SemiBold/EuclidCircularB-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Euclid Circular B SemiBold/EuclidCircularB-SemiBold.woff2') format('woff2'),
+		url('../fonts/Euclid Circular B SemiBold/EuclidCircularB-SemiBold.woff') format('woff'),
+		url('../fonts/Euclid Circular B SemiBold/EuclidCircularB-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+/* -------------------------------------SangBleuKingdom-------------------------------------------------- */
+@font-face {
+	font-family: 'SangBleu Kingdom';
+	src: url('../fonts/SangBleuKingdom-Bold/SangBleuKingdom-Bold-WebXL.eot');
+	src: local('SangBleuKingdom-Bold'), local('../fonts/SangBleuKingdom-Bold/SangBleuKingdom-Bold-WebXL'),
+		url('../fonts/SangBleuKingdom-Bold/SangBleuKingdom-Bold-WebXL.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SangBleuKingdom-Bold/SangBleuKingdom-Bold-WebXL.woff2') format('woff2'),
+		url('../fonts/SangBleuKingdom-Bold/SangBleuKingdom-Bold-WebXL.woff') format('woff'),
+		url('../fonts/SangBleuKingdom-Bold/SangBleuKingdom-Bold-WebXL.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SangBleu Kingdom';
+	src: url('../fonts/SangBleuKingdom-Regular/SangBleuKingdom-Regular-WebXL.eot');
+	src: local('SangBleuKingdom-Regular'), local('../fonts/SangBleuKingdom-Regular/SangBleuKingdom-Regular-WebXL'),
+		url('../fonts/SangBleuKingdom-Regular/SangBleuKingdom-Regular-WebXL.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SangBleuKingdom-Regular/SangBleuKingdom-Regular-WebXL.woff2') format('woff2'),
+		url('../fonts/SangBleuKingdom-Regular/SangBleuKingdom-Regular-WebXL.woff') format('woff'),
+		url('../fonts/SangBleuKingdom-Regular/SangBleuKingdom-Regular-WebXL.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
